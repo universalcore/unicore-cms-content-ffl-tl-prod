@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Salvar e melhorar as vidas das crian\u00e7as", 
+  "language": "por_PT", 
+  "title": "Fatos para a Vida", 
+  "primary_category": "9189313239074928a66343ae29e44b82", 
+  "created_at": "2015-07-20T20:05:20+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-20T20:05:20+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A informa\u00e7\u00e3o pode salvar vidas, melhorar a sa\u00fade e reduzir o sofrimento. O conhecimento pode contribuir para a preven\u00e7\u00e3o, o tratamento e as medidas de prote\u00e7\u00e3o de baixo custo. O desafio \u00e9 ter a certeza de que o conhecimento \u00e9 compartilhado com pais, fam\u00edlias, respons\u00e1veis e comunidades:  o primeiro n\u00edvel de defesa para a prote\u00e7\u00e3o das crian\u00e7as contra doen\u00e7as e outras amea\u00e7as. **Fatos para a Vida** apresenta informa\u00e7\u00f5es essenciais sobre como prevenir mortes, enfermidades, danos e viol\u00eancia contra crian\u00e7as e m\u00e3es. Fatos para a Vida foi criado conjuntamente pelo UNICEF, OMS, UNESCO, UNFPA, PNUD, UNAIDS, PMA e o Banco Mundial.\r\n\r\nEsta vers\u00e3o dos **Fatos para a Vida** foi adaptada a partir da vers\u00e3o completa para leitura, produzida pelo Departamento de Comunica\u00e7\u00e3o Digital do UNICEF da RDC em www.ponabana.com.\r\n\r\n\r\n*Os Fatos para a Vida t\u00eam como objetivo fornecer \u00e0s fam\u00edlias e comunidades as informa\u00e7\u00f5es de que precisam para salvar e melhorar a vida das crian\u00e7as. Pais, av\u00f3s, outros respons\u00e1veis e jovens podem consultar esta pr\u00e1tica fonte de informa\u00e7\u00f5es para buscar respostas para suas perguntas relacionadas a natalidade e para que as crian\u00e7as tenham o melhor in\u00edcio de vida. O desafio \u00e9 assegurar que todos saibam e conhe\u00e7am sobre esses fatos e que estejam motivados para coloc\u00e1-los em pr\u00e1tica.*\r\n\r\n**Leia todos os Fatos para a Vida.**", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 12, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "fatos-para-vida", 
+  "uuid": "cc6541b0798f4f42a4c0552a06fd0bf2"
+}
