@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "e4e61e4c48ab46b297f41949acf4cef2", 
+  "language": "por_PT", 
+  "title": "Fatos para: Evitar doen\u00e7as e mortes", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "fatos-para-evitar-doencas-e-mortes", 
+  "source": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
