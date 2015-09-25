@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "4385ac3f0fd44e619d75493a1ab9a450", 
+  "language": "por_PT", 
+  "title": "Fatos para: Manter as crian\u00e7as seguras", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "fatos-para-manter-criancas-seguras", 
+  "source": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
